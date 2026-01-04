@@ -3,7 +3,7 @@ Hi! My hackpad is a 4 key macropad designed to help my productivity in fusion 36
 
 ## Features:
 - 4 switches
-- 1 rp2040
+- 1 RP2040
 - 2 leds
 - 1 * 3 layout
 - Key's designed to help me make the most out of fusion 360 like the extrude key (e)
