@@ -19,17 +19,17 @@ One of the biggest challenges I faced in this project was learning PCB design in
 
 ## CAD Model:
 Complete Model:
-![CompleteBearCase](CompleteBearCase.png)
+![CompleteBearCase](images/CompleteBearCase.png)
 
 Case:
-![Bear case](Case.png)
+![Bear case](images/Case.png)
 
 ## PCB: 
 Schematic:
-![Schematic](Schematic.png)
+![Schematic](images/Schematic.png)
 
 PCB:
-![PCB](PCB.png)
+![PCB](images/PCB.png)
 
 ## Firmware:
 I wrote the firmware using kmk firmware and you can see it in the repo.
