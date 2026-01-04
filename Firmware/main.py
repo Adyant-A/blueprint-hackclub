@@ -27,8 +27,8 @@ keyboard.matrix = KeysScanner(
 # Look here for keycodes: https://github.com/KMKfw/kmk_firmware/blob/main/docs/en/keycodes.md
 # And here for macros: https://github.com/KMKfw/kmk_firmware/blob/main/docs/en/macros.md
 keyboard.keymap = [
-    [ KC.LGUI(KC.Z), KC.F3 ],    #undo, F3    
-    [ KC.E, KC.LGUI(KC.TAB) ]    #extrude, switch app
+    [ KC.LGUI(KC.TAB)],    #switch app
+    [ KC.E, KC.LGUI(KC.Z), KC.F3 ]    #extrude, undo, F3
 ]
 
 # Start kmk!
