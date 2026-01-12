@@ -9,8 +9,8 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'bear-case.step',
-/* time_stamp */ '2026-01-11T14:04:29-08:00',
+/* name */ 'bottom-bear-case.step',
+/* time_stamp */ '2026-01-11T21:25:40-08:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20.1',
@@ -1833,15 +1833,17 @@ SOLID_ANGLE_UNIT()
 #1694=PRODUCT_DEFINITION_SHAPE('',$,#1697);
 #1695=SHAPE_REPRESENTATION('',(#721),#1688);
 #1696=PRODUCT_DEFINITION_CONTEXT('part definition',#1701,'design');
-#1697=PRODUCT_DEFINITION('2026-01-02-21-25-37-863','bear-case',#1698,#1696);
+#1697=PRODUCT_DEFINITION('2026-01-02-21-25-37-863','bottom-bear-case',#1698,
+#1696);
 #1698=PRODUCT_DEFINITION_FORMATION('',$,#1703);
-#1699=PRODUCT_RELATED_PRODUCT_CATEGORY('bear-case','bear-case',(#1703));
+#1699=PRODUCT_RELATED_PRODUCT_CATEGORY('bottom-bear-case',
+'bottom-bear-case',(#1703));
 #1700=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'automotive_design',2009,#1701);
 #1701=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #1702=PRODUCT_CONTEXT('part definition',#1701,'mechanical');
-#1703=PRODUCT('2026-01-02-21-25-37-863','bear-case',$,(#1702));
+#1703=PRODUCT('2026-01-02-21-25-37-863','bottom-bear-case',$,(#1702));
 #1704=PRESENTATION_STYLE_ASSIGNMENT((#1706));
 #1705=PRESENTATION_STYLE_ASSIGNMENT((#1707));
 #1706=SURFACE_STYLE_USAGE(.BOTH.,#1708);
